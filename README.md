@@ -19,7 +19,7 @@ To run BinText locally:
 1. Clone this repository:
 
     ```
-    git clone https://github.com/adityxrajj/BinText.git
+    git clone https://github.com/adityxrajj/bin-text.git
     ```
 2. Navigate into the project directory:
 
