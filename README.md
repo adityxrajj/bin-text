@@ -24,7 +24,7 @@ To run BinText locally:
 2. Navigate into the project directory:
 
     ```
-    cd BinText
+    cd bin-text
     ```
 
 3. Open `index.html` in your browser to start using the application.
