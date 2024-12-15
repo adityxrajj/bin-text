@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', function () {
-    // Get elements
     const inputText = document.getElementById('inputText');
     const outputBinary = document.getElementById('outputBinary');
     const charCount = document.getElementById('charCount');
